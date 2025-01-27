@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common SQL error involving NULL values and aggregate functions. The `bug.sql` file shows an SQL query that produces an inaccurate count due to the exclusion of records with NULL salaries.  The `bugSolution.sql` file offers a corrected version that handles NULL values appropriately.
